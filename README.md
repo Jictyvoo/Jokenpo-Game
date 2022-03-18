@@ -1,3 +1,3 @@
 # Jokenpo Game
 
-My first attempt to use Java when learning
+A Swing project made with Kotlin
